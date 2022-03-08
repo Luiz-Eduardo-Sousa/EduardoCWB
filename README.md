@@ -1,4 +1,4 @@
-## Oii eu sou o Eduardo, e estou apreendedo a desevolver sites!
+## Oii eu sou o Eduardo, e estou aprendedo a desevolver sites!
 <div align="center">
   <a href="https://github.com/eduardocwb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocwb&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
   
   ##
  
-  ![Snake animation](https://github.com/EduardoCWB/EduardoCWB/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardocwb/eduardocwb/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
